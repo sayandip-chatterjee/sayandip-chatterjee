@@ -1,5 +1,7 @@
 # Hi there 👋  
 
+“I specialize in providing Full-Spectrum End2End Resilience through a Zero-Silo Continuum based Product-Centric-Engineering.”
+
 🚧 Still building this page... 🏗️  
 ⚡ Work in Progress! ✨  
 🙏 Patience appreciated while I sprinkle some magic here 🪄💻  
