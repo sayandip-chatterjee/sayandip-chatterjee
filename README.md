@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-“I specialize in providing Full-Spectrum End2End Resilience through a Zero-Silo Continuum based Product-Centric-Engineering.”
+“I specialize in providing a _Full-Spectrum End2End Resilience_ through a _Zero-Silo Continuum_ based _Product-Centric-Engineering_.”
 
 🚧 Still building this page... 🏗️  
 ⚡ Work in Progress! ✨  
