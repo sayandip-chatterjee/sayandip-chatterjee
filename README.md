@@ -8,6 +8,8 @@
 
 Stay tuned... 🎶🚀🌈  
 
+👉 Still curious to know more about me?  
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/sayandip-chatterjee) 🔗✨
 
 <!--
 **sayandip-chatterjee/sayandip-chatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
