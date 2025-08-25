@@ -1,6 +1,11 @@
-# Hi there 👋
-## Still building this page!
-### Work in Progress! Patience appreciated!
+# Hi there 👋  
+
+🚧 Still building this page... 🏗️  
+⚡ Work in Progress! ✨  
+🙏 Patience appreciated while I sprinkle some magic here 🪄💻  
+
+Stay tuned... 🎶🚀🌈  
+
 
 <!--
 **sayandip-chatterjee/sayandip-chatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
