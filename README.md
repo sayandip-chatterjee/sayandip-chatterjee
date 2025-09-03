@@ -1,4 +1,4 @@
-# Hi there 👋  
+#  👨🏻‍💻 Hi there 👋  
 
 “I specialize in providing a _Full-Spectrum End2End Resilience_ through a _Zero-Silo Continuum_ based _Product-Centric-Engineering_.”
 
